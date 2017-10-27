@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 from PyPDF2 import PdfFileMerger,PdfFileReader, PdfFileWriter
 import sys
 
-
+#test
 html_template = """ 
 <!DOCTYPE html> 
 <html lang="en"> 
